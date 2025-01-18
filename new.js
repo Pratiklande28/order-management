@@ -1,0 +1,3 @@
+//generate sample javascript code
+
+
